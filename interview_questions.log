@@ -1,0 +1,7 @@
+2025-05-16 15:47:39,508 - INFO - parse - Received request for interview questions (difficulty: 2)
+2025-05-16 15:47:39,508 - INFO - parse - Starting PDF text extraction
+2025-05-16 15:47:39,535 - INFO - parse - PDF text extraction completed: ARIGELA SANJANA
+India |\u2642phone+91 7816074556 |/envel\u2322pesanjanaarigela.2004@gmail.com |/linkedinLinked...
+2025-05-16 15:47:39,535 - INFO - parse - Generating prompt for interview questions
+2025-05-16 15:47:39,535 - INFO - parse - Retrieving parameters for difficulty level: 2
+2025-05-16 15:47:39,535 - INFO - parse - Calling Ollama API with model: llama3.2:1b

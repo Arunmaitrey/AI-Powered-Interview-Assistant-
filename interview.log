@@ -1,0 +1,19 @@
+2025-08-19 16:16:18,621 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-19 16:16:18,715 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-08-19 16:16:43,312 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-19 16:23:19,868 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-19 16:32:16,532 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-19 16:34:31,403 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-19 16:35:15,554 - ERROR - Bedrock error: Could not connect to the endpoint URL: "https://bedrock-runtime.nono.amazonaws.com/model/meta.llama3-8b-instruct-v1%3A0/invoke"
+2025-08-19 16:35:15,557 - ERROR - Question generation failed: 500: Model service unavailable
+2025-08-19 16:36:47,107 - ERROR - Bedrock error: Could not connect to the endpoint URL: "https://bedrock-runtime.nono.amazonaws.com/model/meta.llama3-8b-instruct-v1%3A0/invoke"
+2025-08-19 16:36:47,108 - ERROR - Question generation failed: 500: Model service unavailable
+2025-08-19 16:39:22,763 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-19 16:40:04,282 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-19 16:41:04,077 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-08-19 16:41:13,997 - INFO - Using mock question generation (AWS Bedrock not configured)
+2025-08-19 16:42:17,276 - INFO - Using mock question generation (AWS Bedrock not configured)
